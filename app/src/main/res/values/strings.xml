@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PPDM_School</string>
+    <string name="lion">Lion  School</string>
+    <string name="favorite">Find your favorite course</string>
+    <string name="get">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself.</string>
+    <string name="started">Get started</string>
+    <string name="curso1">DS</string>
+    <string name="curso1titulo">Desenvolvimento de Sistemas</string>
+    <string name="curso1descricao">Learn to develop web and mobile applications</string>
+    <string name="curso2">RDS</string>
+    <string name="curso2titulo">Redes de Computadores</string>
+    <string name="curso2descricao">Learn to desing communication networks</string>
+    <string name="curso3">ELE</string>
+    <string name="curso3titulo">Eletroeletronica</string>
+    <string name="curso3descricao">Learn to desing communication networks</string>
+    <string name="todos">Todos</string>
+    <string name="cursando">Cursando</string>
+    <string name="finalizado">Finalizado</string>
+
+
+</resources>
